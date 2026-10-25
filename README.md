@@ -9,12 +9,12 @@ I design systems that fail gracefully, run them in production, and I'm documenti
 - **Cloud & DevOps:** AWS (ECS Fargate, Lambda, S3, RDS, SQS, SNS, SES, VPC, IAM, CloudWatch), Docker, Terraform, GitHub Actions, trunk-based CI/CD
 - **Architecture:** event-driven systems, cache-aside with circuit breakers, dead-letter queues, multi-tenancy, graceful degradation
 - **Backend:** C# / .NET 8, Python, Node.js, Kafka, Redis, SQL Server, MongoDB, DynamoDB
-- **AI engineering:** LLM integration, RAG, LangChain/LangGraph, agents and MCP; Claude Code and Copilot daily
+- **AI engineering:** LLM integration, RAG; Claude Code and Copilot daily
 - **Observability:** Datadog SLO alerting, CloudWatch, structured logging, production debugging and incident response
 
 ## Featured Work
 
-### Portfolio & Case Studies — [appcomplish.click](https://appcomplish.click)
+### Cloud Engineering Portfolio & Case Studies — [appcomplish.click](https://appcomplish.click)
 Static site on S3 documenting my AWS builds with architecture diagrams, alternatives considered and tradeoffs. Source: [appcomplish-portfolio](https://github.com/nuru-adeniyi/appcomplish-portfolio).
 
 ### Automated Trading Platform (private)
