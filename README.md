@@ -15,7 +15,7 @@ I design systems that fail gracefully, run them in production, and I'm documenti
 ## Featured Work
 
 ### Portfolio & Case Studies — [appcomplish.click](https://appcomplish.click)
-Static site on S3 documenting my AWS builds with architecture diagrams, alternatives considered and tradeoffs. Source: [appcomplish-portfolio](https://github.com/Lanruchi/appcomplish-portfolio).
+Static site on S3 documenting my AWS builds with architecture diagrams, alternatives considered and tradeoffs. Source: [appcomplish-portfolio](https://github.com/nuru-adeniyi/appcomplish-portfolio).
 
 ### Automated Trading Platform (private)
 Python webhook service on AWS ECS Fargate that turns TradingView signals into live brokerage orders, with Docker, Terraform, secrets management, CloudWatch auto-scaling and scheduled GitHub Actions workflows. An LLM classifies live news sentiment to trigger trades. Repo is private; happy to walk through it in an interview.
@@ -26,7 +26,7 @@ Python webhook service on AWS ECS Fargate that turns TradingView signals into li
 - Cut an API from 20+ seconds to milliseconds and a 7-minute processing delay to instant through root-cause analysis
 - Right-sized an ECS fleet from 4 to 2 instances with no throughput loss
 
-### [Terraform-AWS-Practice](https://github.com/Lanruchi/Terraform-AWS-Practice)
+### [Terraform-AWS-Practice](https://github.com/nuru-adeniyi/Terraform-AWS-Practice)
 Hands-on infrastructure as code: provisioning AWS resources with Terraform.
 
 ## Currently Working On
