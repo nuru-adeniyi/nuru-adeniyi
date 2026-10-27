@@ -17,9 +17,6 @@ I design systems that fail gracefully, run them in production, and I'm documenti
 ### Cloud Engineering Portfolio & Case Studies — [appcomplish.click](https://appcomplish.click)
 Static site on S3 documenting my AWS builds with architecture diagrams, alternatives considered and tradeoffs. Source: [appcomplish-portfolio](https://github.com/nuru-adeniyi/appcomplish-portfolio).
 
-### Automated Trading Platform (private)
-Python webhook service on AWS ECS Fargate that turns TradingView signals into live brokerage orders, with Docker, Terraform, secrets management, CloudWatch auto-scaling and scheduled GitHub Actions workflows. An LLM classifies live news sentiment to trigger trades. Repo is private; happy to walk through it in an interview.
-
 ### Production Engineering Highlights
 - Built an event-driven messaging platform on AWS (Kafka → SES/Twilio → SQS with dead-letter queues) handling millions of messages a month
 - Designed a cache-aside pricing read model with event-driven invalidation, circuit breaker and database fallback
