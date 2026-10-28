@@ -1,6 +1,6 @@
 # Hi, I'm Nurudeen Adeniyi
 
-Senior software engineer with 18+ years building distributed backends in .NET, now focused on **AWS cloud engineering, DevOps and AI engineering**. Previously AWS Certified Solutions Architect – Associate (expired 2025).
+Senior software engineer with 10+ years building distributed backends in .NET, now focused on **AWS cloud engineering, DevOps and AI engineering**. Previously AWS Certified Solutions Architect – Associate (expired 2025).
 
 I design systems that fail gracefully, run them in production, and I'm documenting my cloud, DevOps and AI projects as real case studies with the decisions and tradeoffs behind them.
 
